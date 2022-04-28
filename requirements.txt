@@ -1,6 +1,6 @@
 asgiref==3.2.10
 Django==3.1.12
-Pillow==8.3.1
+Pillow==9.0.1
 pytz==2020.1
 requests==2.22.0
 six==1.14.0
